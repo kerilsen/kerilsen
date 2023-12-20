@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keri Sen.
 - 👀 I’m interested in knowledge organization and web development.
-- 🌱 I’m currently learning front end web development (HTML, CSS, JavaScript, APIs etc)
+- 🌱 I’m currently learning full stack web development (JavaScript, JQuery, APIs, Node.js etc)
 - 💞️ I’m looking to collaborate on basically anything!
 - 📫 Reach me at dev@kerisen.com
 

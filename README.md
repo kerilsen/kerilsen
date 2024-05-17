@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Keri Sen.
-- 👀 I’m interested in knowledge organization and web development.
-- 🌱 I’m currently learning full stack web development (Node.js, Express.js, MySQL, MongoDB, React, MERN, etc.)
-- 💞️ I’m looking to collaborate on any starter projects!
-- 📫 Reach me at dev@kerisen.com
+- 👋 Hi, I’m Keri Sen! I recently gained a full stack web development certificate from University of California, Berkeley.
+- 👀 I’m interested in UX/UI, AI, knowledge organization and web development (currently using MERN Stack)
+- 🌱 I’m currently learning Next.js, TypeScript, UX/UI, AI, 
+- 💞️ I’m looking to collaborate on any starter projects! Please get in touch!
+- 📫 My portfolio is available [here](https://kerisen.netlify.com). Reach me at dev@kerisen.com.
 
 <!---
 kerilsen/kerilsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
